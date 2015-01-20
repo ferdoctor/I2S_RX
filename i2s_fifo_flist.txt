@@ -1,0 +1,8 @@
+# Output products list for <i2s_fifo>
+i2s_fifo.ngc
+i2s_fifo.vhd
+i2s_fifo.vho
+i2s_fifo.xco
+i2s_fifo_fifo_generator_v3_2_xst_1_vhdl.prj
+i2s_fifo_flist.txt
+i2s_fifo_xmdf.tcl
